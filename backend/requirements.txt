@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+PyMuPDF
+google-genai
+sentence-transformers
+numpy
+faster-whisper
